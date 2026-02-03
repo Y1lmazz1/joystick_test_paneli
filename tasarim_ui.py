@@ -1,4 +1,4 @@
-# Form implementation generated from reading ui file 'c:\Users\yarsl\OneDrive\Masaüstü\joystick_test_projesi\tasarim.ui'
+# Form implementation generated from reading ui file 'c:\Users\yarsl\OneDrive\Masaüstü\joystick_test_projesi\joystick_test_paneli\tasarim.ui'
 #
 # Created by: PyQt6 UI code generator 6.10.2
 #
@@ -18,7 +18,7 @@ class Ui_MainWindow(object):
         self.label = QtWidgets.QLabel(parent=self.centralwidget)
         self.label.setGeometry(QtCore.QRect(90, 11, 581, 471))
         self.label.setText("")
-        self.label.setPixmap(QtGui.QPixmap("c:\\Users\\yarsl\\OneDrive\\Masaüstü\\joystick_test_projesi\\../../../Downloads/pngwing.com (7).png"))
+        self.label.setPixmap(QtGui.QPixmap("c:\\Users\\yarsl\\OneDrive\\Masaüstü\\joystick_test_projesi\\joystick_test_paneli\\../../../Downloads/pngwing.com (7).png"))
         self.label.setScaledContents(True)
         self.label.setObjectName("label")
         self.btn_0 = QtWidgets.QPushButton(parent=self.centralwidget)
@@ -67,13 +67,13 @@ class Ui_MainWindow(object):
         self.stick_L = QtWidgets.QLabel(parent=self.centralwidget)
         self.stick_L.setGeometry(QtCore.QRect(270, 310, 49, 41))
         self.stick_L.setText("")
-        self.stick_L.setPixmap(QtGui.QPixmap("c:\\Users\\yarsl\\OneDrive\\Masaüstü\\joystick_test_projesi\\pngwing.com (5) (0_0).png"))
+        self.stick_L.setPixmap(QtGui.QPixmap("c:\\Users\\yarsl\\OneDrive\\Masaüstü\\joystick_test_projesi\\joystick_test_paneli\\pngwing.com (5) (0_0).png"))
         self.stick_L.setScaledContents(True)
         self.stick_L.setObjectName("stick_L")
         self.stick_r = QtWidgets.QLabel(parent=self.centralwidget)
         self.stick_r.setGeometry(QtCore.QRect(450, 310, 41, 41))
         self.stick_r.setText("")
-        self.stick_r.setPixmap(QtGui.QPixmap("c:\\Users\\yarsl\\OneDrive\\Masaüstü\\joystick_test_projesi\\pngwing.com (5) (0_0).png"))
+        self.stick_r.setPixmap(QtGui.QPixmap("c:\\Users\\yarsl\\OneDrive\\Masaüstü\\joystick_test_projesi\\joystick_test_paneli\\pngwing.com (5) (0_0).png"))
         self.stick_r.setScaledContents(True)
         self.stick_r.setObjectName("stick_r")
         self.conn_status = QtWidgets.QLabel(parent=self.centralwidget)
